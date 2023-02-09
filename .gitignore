@@ -1,3 +1,5 @@
 keys.txt
 reddit_secret.txt
 reddit_account.txt
+azure_creds.txt
+azure-airflow-etl-project-b1s_key.pem
